@@ -5,9 +5,11 @@ list2=[12,14,-95,3,]
 
 for number in list1:
     if number>0:
-        print(number)
+        output1=[number]
+        print(output)
 
 
 for number in list2:
     if number>0:
-        print(number)
+        output2=[number]
+        print(output)
